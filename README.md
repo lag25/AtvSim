@@ -26,11 +26,32 @@ This project aims to elevate the performance of LNCT's Society of Automotive Eng
 
 - **Real-Time Data Logging System:** Future plans include implementing a Python system that feeds data in real-time into a database and Excel sheets every time a session is activated, ensuring comprehensive and organized data logging.
 
+- **Deployment:** Planning to deploy the project on the web, making it accessible to all club members. This will enable easy access and usage for monitoring and analyzing ATV performance.
+
 ### Comprehensive Project Scope
 
 - **Hardware-Software Integration:** Successfully combined hardware integration, software development, and 3D modeling within a single project.
 
 - **Technology Stack:** Python, Flask, Matplotlib, C#, Arduino.
+
+### Project Showcase
+
+Here you can find images and videos showcasing the project in action. (Sidenote : I apologize for the quality of media and the lack of context for each of them. I had'nt give it a lot of thought when I was making the project ;-;)
+
+1. First Time I got the Animated ATV model to work in-sync with the Sensors
+
+https://github.com/lag25/AtvSim/assets/116341862/daae8f61-f133-4ec7-880d-651e81ac1952
+
+2. Showcasing Rotations using an ESP32 
+
+https://github.com/lag25/AtvSim/assets/116341862/1916d595-a784-42e0-a7e2-bba7a44a8636
+
+3. Python Script visualizing Vehicular Pitch,Yaw and Roll in real time
+![WhatsApp Image 2023-08-01 at 21 34 27_1fac0a6e](https://github.com/lag25/AtvSim/assets/116341862/ea88300d-f0f1-4e3a-9f61-b494043f88e1)
+
+4. My ESP32 Board and an MPU-9250 sensor (Plus my Shaft Encoder which I later decided to not use for this project)
+![sensors](https://github.com/lag25/AtvSim/assets/116341862/a1fa92e4-ea76-4e5c-811c-391fae36e3e0)
+
 
 ## Project Repository
 
@@ -48,6 +69,3 @@ Contributions are welcome! Feel free to submit issues or pull requests to enhanc
 
 This project is licensed under the [MIT License](insert_license_link_here) - see the [LICENSE.md](insert_license_link_here) file for details.
 
-## Acknowledgments
-
-Special thanks to LNCT and the Society of Automotive Engineers for their support and collaboration on this project.
